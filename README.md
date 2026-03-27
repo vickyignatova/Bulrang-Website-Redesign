@@ -60,3 +60,7 @@ Possible next steps for the project include:
 - adding responsive mobile versions
 - creating interactive prototypes
 - preparing the design for developer handoff
+
+## Notes
+
+This is a conceptual redesign created for portfolio purposes.
